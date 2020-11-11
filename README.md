@@ -1,2 +1,2 @@
 # Google_Map_clone
-Google Map clone using Vanilla JS and MApbox
+MInimal Google Map clone using Vanilla JS and MApbox with directions and ETA.
